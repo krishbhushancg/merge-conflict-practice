@@ -1,4 +1,5 @@
 My Tasks
 1. Study Git
 2. Watch Git tutorial
+2. Practice merge conflicts
 3. Review notes
